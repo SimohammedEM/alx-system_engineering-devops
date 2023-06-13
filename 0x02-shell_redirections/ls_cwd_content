@@ -1,1 +1,37 @@
-ls -la
+total 144
+drwxr-xr-x 2 root root  4096 Jun 13 16:57 .
+drwxr-xr-x 6 root root   121 Jun 13 05:22 ..
+-rwxr--r-- 1 root root    32 Jun 13 14:21 0-hello_world
+-rwxr--r-- 1 root root    56 Jun 13 08:11 100-empty_casks
+-rwxr--r-- 1 root root   107 Jun 13 08:11 101-gifs
+-rwxr--r-- 1 root root    37 Jun 13 08:12 102-acrostic
+-rwxr--r-- 1 root root   115 Jun 13 08:13 103-the_biggest_fan
+-rwxr--r-- 1 root root    48 Jun 13 07:30 10-no_more_js
+-rwxr--r-- 1 root root    46 Jun 13 07:36 11-directories
+-rwxr--r-- 1 root root    32 Jun 13 07:43 12-newest_files
+-rwxr--r-- 1 root root    27 Jun 13 07:46 13-unique
+-rwxr--r-- 1 root root    39 Jun 13 07:49 14-findthatword
+-rwxr--r-- 1 root root    41 Jun 13 07:53 15-countthatword
+-rwxr--r-- 1 root root    44 Jun 13 07:58 16-whatsnext
+-rwxr--r-- 1 root root    41 Jun 13 08:03 17-hidethisword
+-rwxr--r-- 1 root root    50 Jun 13 08:02 18-letteronly
+-rwxr--r-- 1 root root    36 Jun 13 08:03 19-AZ
+-rwxr--r-- 1 root root    28 Jun 13 15:24 1-confused_smiley
+-rwxr--r-- 1 root root    23 Jun 13 08:06 20-hiago
+-rwxr--r-- 1 root root    16 Jun 13 08:09 21-reverse
+-rw------- 1 root root 12288 Jun 13 08:07 .21-reverse.swp
+-rwxr--r-- 1 root root    49 Jun 13 08:10 22-users_and_homes
+-rwxr--r-- 1 root root    28 Jun 13 06:27 2-hellofile
+-rwxr--r-- 1 root root    39 Jun 13 06:30 3-twofiles
+-rwxr--r-- 1 root root    35 Jun 13 06:41 4-lastlines
+-rwxr--r-- 1 root root    35 Jun 13 06:44 5-firstlines
+-rwxr--r-- 1 root root    41 Jun 13 15:59 6-third_line
+-rwxr--r-- 1 root root    99 Jun 13 16:34 7-file
+-rwxr--r-- 1 root root    36 Jun 13 16:57 8-cwd_state
+-rwxr--r-- 1 root root    13 Jun 13 07:03 9-duplicate_last_line
+-rw-r--r-- 1 root root    12 Jun 13 16:35 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   728 Jun 13 16:03 iacta
+-rw-r--r-- 1 root root     0 Jun 13 16:57 ls_cwd_content
+-rw-r--r-- 1 root root   394 Jun 13 16:09 output
+-rw-r--r-- 1 root root    41 Jun 13 05:24 README.md
+-rwxr--r-- 1 root root    37 Jun 13 07:06 vi
